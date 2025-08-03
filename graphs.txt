@@ -2,3 +2,4 @@ How would I describe a graph?
 	- It has nodes and edges and stuff
 		- Edges can have weight
 		- Nodes can have values
+		- Trees are graphs where # of nodes is one more than # of edges
